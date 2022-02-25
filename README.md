@@ -9,5 +9,5 @@
 
 ![screencast](https://i.imgur.com/miLzIkJ.gif)
 
-[Basic usage examples](https://codesandbox.io/s/y2nxyvomyj)
+
 
