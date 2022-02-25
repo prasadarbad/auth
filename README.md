@@ -1,4 +1,4 @@
-## lottie-player Web Component
+
 
 
 
@@ -7,7 +7,7 @@
 
 ## Demo
 
-![screencast](https://i.imgur.com/miLzIkJ.gif)
+![screencast](https://assets5.lottiefiles.com/packages/lf20_w7401juf.json)
 
 
 
