@@ -1,6 +1,6 @@
 
 [![MasterHead](https://www.canva.com/design/DAE62-muiRA/U4-bVqNHGJZKNz7wOYZR5A/view?utm_content=DAE62-muiRA&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)](https://github.com/prasadarbad)
-![First Screen] <img src="https://drive.google.com/file/d/1RX2gIFU2mu_1TheljPs5HrnzFI9fBYaD/view?usp=sharing" height= "600"/>
+(img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1RX2gIFU2mu_1TheljPs5HrnzFI9fBYaD/view?usp=sharing")
 
 
 [![npm](https://img.shields.io/npm/v/@lottiefiles/lottie-player.svg)](https://www.npmjs.com/package/@lottiefiles/lottie-player)
